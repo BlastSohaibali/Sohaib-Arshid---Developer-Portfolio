@@ -5,6 +5,32 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
+# 💼 Sohaib Arshid — Developer Portfolio
+
+Welcome to my personal developer portfolio built with **React** and **Tailwind CSS**.  
+It showcases my skills, projects, and professional background in a clean and responsive UI.
+
+## 🚀 Features
+
+- 🔥 Responsive Design using Tailwind CSS
+- ⚛️ Built with React and React Router
+- 📱 Mobile-friendly Layout
+- 🎨 Smooth Animations with Framer Motion
+- 💡 Project Sections, Skills, About, Contact
+
+## 📂 Folder Structure
+
+📦 src
+┣ 📂components
+┃ ┣ 📜 Navbar.jsx
+┃ ┣ 📜 Hero.jsx
+┃ ┣ 📜 About.jsx
+┃ ┣ 📜 Skills.jsx
+┃ ┣ 📜 Projects.jsx
+┃ ┗ 📜 Contact.jsx
+┣ 📜 App.jsx
+┗ 📜 index.js
+
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
